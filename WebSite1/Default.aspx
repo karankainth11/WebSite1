@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            New web app
+            New web app v 2.0
         </div>
     </form>
 </body>
